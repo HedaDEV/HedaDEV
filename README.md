@@ -10,4 +10,5 @@ My toolbox includes:
 #### 🌱 I’m currently learning
 - Swift
 - Cloud infrastructure management
+- .NET
 
